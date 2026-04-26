@@ -165,6 +165,10 @@ MIT License
 M.Sc. Student – Computer Architecture
 University of Tehran
 
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
+
 ---
 
 ## ⭐️ Support
